@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EB8E32DE1BD2981D00A11295 /* TimelineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB8E32DD1BD2981D00A11295 /* TimelineViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		EB8E32E01BD29DA700A11295 /* ConversationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB8E32DF1BD29DA700A11295 /* ConversationsViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		EB8E32E21BD2A38400A11295 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB8E32E11BD2A38400A11295 /* SettingsViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		EBA3E7931BD133C100A41312 /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA3E7921BD133C100A41312 /* Common.swift */; settings = {ASSET_TAGS = (); }; };
+		EBA3E7951BD1F63800A41312 /* TutorialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA3E7941BD1F63800A41312 /* TutorialViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		EBF038C71BCF6F16004CE866 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBF038C61BCF6F16004CE866 /* SignInViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		EBFD1A631BCE161C0018FD5A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBFD1A621BCE161C0018FD5A /* AppDelegate.swift */; };
 		EBFD1A651BCE161C0018FD5A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBFD1A641BCE161C0018FD5A /* ViewController.swift */; };
 		EBFD1A681BCE161C0018FD5A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBFD1A661BCE161C0018FD5A /* Main.storyboard */; };
@@ -14,6 +20,7 @@
 		EBFD1A6D1BCE161C0018FD5A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBFD1A6B1BCE161C0018FD5A /* LaunchScreen.storyboard */; };
 		EBFD1A781BCE161C0018FD5A /* CarouselAssignmentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBFD1A771BCE161C0018FD5A /* CarouselAssignmentTests.swift */; };
 		EBFD1A831BCE161C0018FD5A /* CarouselAssignmentUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBFD1A821BCE161C0018FD5A /* CarouselAssignmentUITests.swift */; };
+		EBFD1A951BCE22FB0018FD5A /* IntoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBFD1A941BCE22FB0018FD5A /* IntoViewController.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +41,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EB8E32DD1BD2981D00A11295 /* TimelineViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimelineViewController.swift; sourceTree = "<group>"; };
+		EB8E32DF1BD29DA700A11295 /* ConversationsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConversationsViewController.swift; sourceTree = "<group>"; };
+		EB8E32E11BD2A38400A11295 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		EBA3E7921BD133C100A41312 /* Common.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
+		EBA3E7941BD1F63800A41312 /* TutorialViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TutorialViewController.swift; path = ../TutorialViewController.swift; sourceTree = "<group>"; };
+		EBF038C61BCF6F16004CE866 /* SignInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
 		EBFD1A5F1BCE161C0018FD5A /* CarouselAssignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CarouselAssignment.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBFD1A621BCE161C0018FD5A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EBFD1A641BCE161C0018FD5A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +60,7 @@
 		EBFD1A7E1BCE161C0018FD5A /* CarouselAssignmentUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CarouselAssignmentUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBFD1A821BCE161C0018FD5A /* CarouselAssignmentUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselAssignmentUITests.swift; sourceTree = "<group>"; };
 		EBFD1A841BCE161C0018FD5A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EBFD1A941BCE22FB0018FD5A /* IntoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IntoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +111,19 @@
 		EBFD1A611BCE161C0018FD5A /* CarouselAssignment */ = {
 			isa = PBXGroup;
 			children = (
+				EBA3E7921BD133C100A41312 /* Common.swift */,
 				EBFD1A621BCE161C0018FD5A /* AppDelegate.swift */,
 				EBFD1A641BCE161C0018FD5A /* ViewController.swift */,
 				EBFD1A661BCE161C0018FD5A /* Main.storyboard */,
+				EBA3E7941BD1F63800A41312 /* TutorialViewController.swift */,
 				EBFD1A691BCE161C0018FD5A /* Assets.xcassets */,
 				EBFD1A6B1BCE161C0018FD5A /* LaunchScreen.storyboard */,
 				EBFD1A6E1BCE161C0018FD5A /* Info.plist */,
+				EBFD1A941BCE22FB0018FD5A /* IntoViewController.swift */,
+				EBF038C61BCF6F16004CE866 /* SignInViewController.swift */,
+				EB8E32DD1BD2981D00A11295 /* TimelineViewController.swift */,
+				EB8E32DF1BD29DA700A11295 /* ConversationsViewController.swift */,
+				EB8E32E11BD2A38400A11295 /* SettingsViewController.swift */,
 			);
 			path = CarouselAssignment;
 			sourceTree = "<group>";
@@ -255,8 +276,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EBFD1A951BCE22FB0018FD5A /* IntoViewController.swift in Sources */,
 				EBFD1A651BCE161C0018FD5A /* ViewController.swift in Sources */,
+				EBF038C71BCF6F16004CE866 /* SignInViewController.swift in Sources */,
+				EB8E32E01BD29DA700A11295 /* ConversationsViewController.swift in Sources */,
+				EBA3E7931BD133C100A41312 /* Common.swift in Sources */,
+				EB8E32DE1BD2981D00A11295 /* TimelineViewController.swift in Sources */,
+				EBA3E7951BD1F63800A41312 /* TutorialViewController.swift in Sources */,
 				EBFD1A631BCE161C0018FD5A /* AppDelegate.swift in Sources */,
+				EB8E32E21BD2A38400A11295 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -481,6 +509,7 @@
 				EBFD1A891BCE161C0018FD5A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EBFD1A8A1BCE161C0018FD5A /* Build configuration list for PBXNativeTarget "CarouselAssignmentTests" */ = {
 			isa = XCConfigurationList;
@@ -489,6 +518,7 @@
 				EBFD1A8C1BCE161C0018FD5A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EBFD1A8D1BCE161C0018FD5A /* Build configuration list for PBXNativeTarget "CarouselAssignmentUITests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +527,7 @@
 				EBFD1A8F1BCE161C0018FD5A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
